@@ -5,14 +5,14 @@ I'm a junior Python developer with a passion for creating innovative and efficie
 
 <br>
 
-## Social networks:
+<h3 align="left">Social networks:</h3>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/vladislav-lee-0a99a9274/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
   <a href="https://www.instagram.com/leevladislove/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
 </p>
 
-## Technologies and Tools:
+<h3 align="left">Technologies and Tools:</h3>
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -29,6 +29,6 @@ I'm a junior Python developer with a passion for creating innovative and efficie
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-## CodeWars:
+<h3 align="left">CodeWars:</h3>
 
 ![codewars](https://www.codewars.com/users/Leevladislove/badges/small)
