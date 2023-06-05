@@ -3,7 +3,7 @@
 
 I'm a junior Python developer with a passion for creating innovative and efficient solutions. My skills include software development using Python, also utilizing various frameworks and tools to build high-quality applications.
 
-
+<br>
 ### Social networks:
 
 <p align="left">
