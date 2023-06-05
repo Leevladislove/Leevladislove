@@ -1,7 +1,7 @@
 # Hi there, I'm Vladislav!
 ## Python backend developer
 
-I am a junior Python developer with a passion for creating innovative and efficient solutions. My skills include software development using Python, as well as utilizing various frameworks and tools to build high-quality applications.
+I'm a junior Python developer with a passion for creating innovative and efficient solutions. My skills include software development using Python, as well as utilizing various frameworks and tools to build high-quality applications.
 
 ------------------------------------------------------------------------------------------------------
 ### Social networks:
