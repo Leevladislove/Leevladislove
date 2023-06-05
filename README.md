@@ -1,5 +1,5 @@
-# Hi there, I'm Vladislav
-## Python backend developer
+<h1 align="center">Hi there, I'm Vladislav</h1>
+<h3 align="center">Python backend developer</h3>
 
 ### Social networks:
 <p align="left">
