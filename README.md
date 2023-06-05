@@ -24,4 +24,4 @@
 
 ### CodeWars:
 
-![codewars](https://www.codewars.com/users/Leevladislove/badges)
+![codewars](https://www.codewars.com/users/Leevladislove/badges/large)
