@@ -11,7 +11,6 @@ I'm a junior Python developer with a passion for creating innovative and efficie
   <a href="https://www.linkedin.com/in/vladislav-lee-0a99a9274/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-------------------------------------------------------------------------------------------------------
 ### Technologies and Tools:
 
 <p align="left">
@@ -29,7 +28,6 @@ I'm a junior Python developer with a passion for creating innovative and efficie
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-------------------------------------------------------------------------------------------------------
 ### CodeWars:
 
 ![codewars](https://www.codewars.com/users/Leevladislove/badges/small)
