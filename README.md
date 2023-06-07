@@ -9,7 +9,7 @@ I'm a junior Python developer with a passion for creating innovative and efficie
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vladislav-lee-0a99a9274/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" /></a>
-  <a href="https://www.instagram.com/leevladislove/" target="_blank"><img align="center"
+      <a href="https://www.instagram.com/leevladislove/" target="_blank"><img align="center"
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="35" height="35" /></a>
 </p>
 
