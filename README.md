@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I`m Vladislav!</h1>
 <h2 align="center"> Software Developer </h2>
 
-I'am a backend developer passionate about creating innovative and efficient solutions. My skills include software development using Python and utilizing various frameworks and tools for building web applications.
+I'am a software developer passionate about creating innovative and efficient solutions. My skills include software development using Python/Go and utilizing various frameworks and tools for building web applications.
 
 <br>
 
