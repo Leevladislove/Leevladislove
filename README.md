@@ -18,7 +18,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=47C5FB)
 ![MYSQL](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
-![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3)
 
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=47C5FB)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=47C5FB)
