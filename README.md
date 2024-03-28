@@ -8,13 +8,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladislav-lee-0a99a9274)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=#777BB4)](https://t.me/leevladislove)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin?logoColor=#0A66C2)](https://www.linkedin.com/in/vladislav-lee-0a99a9274)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/leevladislove)
 
 
 <h3 align="left">Technologies and Tools:</h3>
 
-![PHP](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=php&logoColor=47C5FB)
+![PHP](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=php&logoColor=#777BB4)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=47C5FB)
 ![MYSQL](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
