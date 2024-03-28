@@ -4,7 +4,7 @@
 I'am a software developer. My skills include software development in PHP using the Laravel framework and tools for creating web applications.
 <br>
 
-<h3 align="left">Social networks:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vladislav-lee-0a99a9274/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" /></a>
