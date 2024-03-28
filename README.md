@@ -6,13 +6,13 @@
   for creating web applications.
 </p>
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/leevladislove)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladislav-lee-0a99a9274)
 
 
-<h4 align="left">Technologies and Tools:</h4>
+<h3 align="left">Technologies and Tools:</h3>
 
 ![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&logoColor=47C5FB)
 ![Laravel](https://img.shields.io/badge/-laravel-090909?style=for-the-badge&logo=laravel&logoColor=47C5FB)
@@ -24,6 +24,6 @@
 ![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=47C5FB)
 ![GIT](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=47C5FB)
 
-<h4 align="left">CodeWars:</h4>
+<h3 align="left">CodeWars:</h3>
 
 ![codewars](https://www.codewars.com/users/Leevladislove/badges/small)
