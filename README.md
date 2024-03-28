@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I`m Vladislav!</h1>
+<h1 align="center">Hi there,  I`m Vlad!</h1>
 <h2 align="center"> Software Developer </h2>
 
 I'am a software developer. My skills include software development in PHP using the Laravel framework and tools for creating web applications.
