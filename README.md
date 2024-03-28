@@ -20,9 +20,9 @@
 ![HTML5](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=#1572B6)
 
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=47C5FB)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=47C5FB)
-![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=47C5FB)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=#FF6C37)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=#FCC624)
+![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#F05032)
 
 
 <h3 align="left">CodeWars:</h3>
